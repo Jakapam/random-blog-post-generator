@@ -1,0 +1,6 @@
+Gemfile.lock
+lib/pos/.DS_Store
+lib/pos/cp437.dat
+lib/pos/mkmpos.cc
+lib/pos/README
+lib/pos/README-orig
