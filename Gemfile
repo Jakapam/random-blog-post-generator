@@ -1,7 +1,10 @@
+# frozen_string_literal: true
+# A sample Gemfile
 source "https://rubygems.org"
 
-gem "rspec"
-gem "activerecord"
 gem "sqlite3"
-gem "rake"
-gem "database_cleaner"
+gem "pry"
+gem 'rake'
+gem 'require_all'
+
+gem 'sinatra-activerecord'
